@@ -10,8 +10,6 @@ Il est composé de deux étapes principales :
 ##  Table des matières
 - [Brief 1 – Système d’Auth](#brief-1--système-dauth)
 - [Brief 2 – Routes Protégées](#brief-2--routes-protégées)
-- [Installation & Lancement](#installation--lancement)
-- [Ressources utiles](#ressources-utiles)
 
 
 ## Brief 1 – Système d’Auth
